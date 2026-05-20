@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data
+# cleaned_dataset.csv  # Keeping this as it's part of the project requested to be pushed
+# results_distilbert/
+# logs/
+# model_logistic_regression.joblib
+# tfidf_vectorizer.joblib
+# best_distilbert_model/
+
+# OS
+.DS_Store
